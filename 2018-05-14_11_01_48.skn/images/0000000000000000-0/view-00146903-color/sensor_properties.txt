@@ -1,0 +1,4 @@
+depthImageFromSensor = 1
+colorImageFromSensor = 1
+sensorProvidesIntermittentColor = 0
+sensorNeverProvidesColor = 0
